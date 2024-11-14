@@ -1,6 +1,6 @@
-# Nuxt Minimal Starter
+# OSM inplement with leaflet in nuxtjs project
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+![Map](./public/map.png)
 
 ## Setup
 
